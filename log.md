@@ -28,3 +28,16 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Day 01: 5th Feb '22
+
+**Today's Progress**: I made a simple todo App in react with a Medium article.
+
+**Thoughts** Add a backend and make rest api routes and host it on github pages.
+
+**Link(s) to work**
+1. https://github.com/nupmry/todo-react
+2. https://towardsdatascience.com/build-a-simple-todo-app-using-react-a492adc9c8a4
+
