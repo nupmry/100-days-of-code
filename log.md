@@ -41,3 +41,13 @@ Day 01: 5th Feb '22
 1. https://github.com/nupmry/todo-react
 2. https://towardsdatascience.com/build-a-simple-todo-app-using-react-a492adc9c8a4
 
+Day 02: 6th Feb '22
+
+**Today's Progress**: I completed the freeCodeCamp > Backend API Certification > MongoDB and Mongoose challenge.
+                      Along with it, I created Routes and Models for a sample e-commerce website project I am working on.
+
+**Thoughts** 2 Challenges pending to fix
+
+**Link(s) to work**
+https://www.freecodecamp.org/learn/back-end-development-and-apis/
+
