@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
  -->
-### Day 1: June 27, Monday
+<!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -27,11 +27,11 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-Day 01: 5th Feb '22
+### Day 01: 5th Feb '22 Saturday
 
 **Today's Progress**: I made a simple todo App in react with a Medium article.
 
@@ -41,7 +41,7 @@ Day 01: 5th Feb '22
 1. https://github.com/nupmry/todo-react
 2. https://towardsdatascience.com/build-a-simple-todo-app-using-react-a492adc9c8a4
 
-Day 02: 6th Feb '22
+### Day 02: 6th Feb '22 Sunday
 
 **Today's Progress**: I completed the freeCodeCamp > Backend API Certification > MongoDB and Mongoose challenge.
                       Along with it, I created Routes and Models for a sample e-commerce website project I am working on.
