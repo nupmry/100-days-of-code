@@ -51,3 +51,11 @@
 **Link(s) to work**
 https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
+### Day 03: 7th Feb '22 Monday
+
+**Today's Progress**: Worked on a basic e-commerce API, with JWT enabled CRUD operations on Users, Products, Cart, and Orders
+
+**Thoughts** : Redo the JWT implementation and think of more mongoose operations
+
+**Link(s) to work**
+https://github.com/nupmry/e-commerceAPI
