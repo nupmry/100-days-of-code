@@ -59,3 +59,20 @@ https://www.freecodecamp.org/learn/back-end-development-and-apis/
 
 **Link(s) to work**
 https://github.com/nupmry/e-commerceAPI
+
+### Day 04: 8th Feb '22 TUESDAY
+
+**Today's Progress**: Postgres basics and relational DBMS fundamentals. Practice for beginner operations on Postgres and Join operations.
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 05: 9th Feb '22 WEDNESDAY
+
+**Today's Progress**: Dug deep into Postgres intermediate and advanced.
+
+**Thoughts**: Could only understand the basics, need to redo
+
+**Link(s) to work**
+1: https://github.com/nupmry/psql-queries
