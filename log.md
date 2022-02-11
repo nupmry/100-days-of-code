@@ -79,3 +79,6 @@ https://github.com/nupmry/e-commerceAPI
 
 ### Day 06: 10th Feb '22 THURSDAY
 **Today's Progress: Practiced psql Queries, worked on the schema of a POC project. Attempted @hackerrank JS basics certification but failed.
+
+### Day 07: 11th Feb '22
+**Today's Progress: Got JS basics certificate from @hackerrank, wrote models, routes and boilerplate express app for creating an imdb clone. Started solving DS problems.
