@@ -76,3 +76,6 @@ https://github.com/nupmry/e-commerceAPI
 
 **Link(s) to work**
 1: https://github.com/nupmry/psql-queries
+
+### Day 06: 10th Feb '22 THURSDAY
+**Today's Progress: Practiced psql Queries, worked on the schema of a POC project. Attempted @hackerrank JS basics certification but failed.
